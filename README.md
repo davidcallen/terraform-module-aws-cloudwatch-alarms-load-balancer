@@ -1,2 +1,3 @@
-# terraform-module-aws-cloudwatch-alarms-load-balancer
-Terraform Module for creating Cloudwatch Alarms for a Load Balancer
+# cloudwatch-alarms-load-balancer
+
+Cloudwatch Alarms for Load Balancer and Target Group
